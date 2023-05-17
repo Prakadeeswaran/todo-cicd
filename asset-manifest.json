@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-cicd/static/css/main.e6c13ad2.css",
+    "main.js": "/todo-cicd/static/js/main.5cb67c21.js",
+    "static/js/787.c23b29ba.chunk.js": "/todo-cicd/static/js/787.c23b29ba.chunk.js",
+    "index.html": "/todo-cicd/index.html",
+    "main.e6c13ad2.css.map": "/todo-cicd/static/css/main.e6c13ad2.css.map",
+    "main.5cb67c21.js.map": "/todo-cicd/static/js/main.5cb67c21.js.map",
+    "787.c23b29ba.chunk.js.map": "/todo-cicd/static/js/787.c23b29ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5cb67c21.js"
+  ]
+}
